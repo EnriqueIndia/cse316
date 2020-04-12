@@ -13,11 +13,11 @@ int Queue(int t1)
 {
       if(t1==0 || t1==1 || t1==2 || t1==3)
       {
-            return 1;
+           return 1;
       }
       else
       {
-            return 2;
+           return 2;
       }
 }
 int main()
